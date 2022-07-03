@@ -1,2 +1,1 @@
-Sample Text From Raw Uri
-Another Line
+Text file content created from the Python Github API
